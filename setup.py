@@ -18,7 +18,7 @@ import setuptools
 
 setuptools.setup(
     name="fleval",
-    version="0.1.0",
+    version="0.1.1",
     author="Ayan Chakrabarti",
     author_email="ayan.chakrabarti@gmail.com",
     description="Flask app for grading or rating submissions, applications, etc.",

@@ -63,7 +63,7 @@ html_index='''
 	</form></p>
 	<hr />
 
-	<p style="font-size: 0.8em;">ID:&nbsp;<select id="usel" style="width: 320px;" accesskey="l" onchange="javascript:selectUser(this.value);">
+	<p style="font-size: 0.8em;">ID:&nbsp;<select id="usel" style="width: 320px;" accesskey="l" onchange="javascript:selectUser(parseInt(this.value));">
 	</select></p>
 
 	<p>
